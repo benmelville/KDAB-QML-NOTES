@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/KDAB-QML-NOTES">/Users/benjaminmelville/projects/KDAB-QML-NOTES/build/Qt_6_6_1_for_macOS-Debug/KDAB-QML-NOTES</file>
+
+  </qresource>
+</RCC>

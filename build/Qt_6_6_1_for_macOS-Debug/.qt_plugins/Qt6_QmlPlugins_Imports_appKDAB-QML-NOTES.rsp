@@ -1,0 +1,14 @@
+-rootPath
+/Users/benjaminmelville/projects/KDAB-QML-NOTES
+-cmake-output
+-output-file
+/Users/benjaminmelville/projects/KDAB-QML-NOTES/build/Qt_6_6_1_for_macOS-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appKDAB-QML-NOTES.cmake
+-importPath
+/Users/benjaminmelville/projects/KDAB-QML-NOTES/build/Qt_6_6_1_for_macOS-Debug/KDAB-QML-NOTES
+-importPath
+/Users/benjaminmelville/projects/KDAB-QML-NOTES/build/Qt_6_6_1_for_macOS-Debug
+-importPath
+/Users/benjaminmelville/Qt/6.6.1/macos/./qml
+-qrcFiles
+/Users/benjaminmelville/projects/KDAB-QML-NOTES/build/Qt_6_6_1_for_macOS-Debug/.rcc/qmake_KDAB-QML-NOTES.qrc
+/Users/benjaminmelville/projects/KDAB-QML-NOTES/build/Qt_6_6_1_for_macOS-Debug/.rcc/appKDAB-QML-NOTES_raw_qml_0.qrc
