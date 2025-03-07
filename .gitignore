@@ -33,7 +33,7 @@ build/
 *.pr
 
 # DS Store
-.DS_Storel
+.DS_Store
 
 # Qt unit tests
 target_wrapper.*
