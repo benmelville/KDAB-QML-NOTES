@@ -30,7 +30,10 @@ ui_*.h
 Makefile*
 build/
 *.qm
-*.prl
+*.pr
+
+# DS Store
+.DS_Storel
 
 # Qt unit tests
 target_wrapper.*
