@@ -6,20 +6,37 @@ Window {
     visible: true
 
     Rectangle {
-        color: "green"
-        // This creates a binding loop between parent and child so we use implicitWidth: and implicitHeight:
-        // width: child.width
-        // height: child.height
-        implicitWidth: child.implicitWidth
-        implicitHeight: child.implicitHeight
+        x: 0
+        width: 100; height: 100;
+        color: "#ff0000"
+    }
+    Rectangle {
+        x: 100
+        width: 100; height: 100;
+        color: Qt.rgba(0,1,0,1);
+    }
+    Rectangle {
+        x: 200
+        width: 100; height: 100;
+        color: "blue"
+    }
+
+    Rectangle {
+        x: 300
+        width: 100; height: 100
+        gradient: Gradient {
+            GradientStop {
+                position: 0.0; color: "green"
+            }
+            GradientStop {
+                position: 0.5; color: "orange"
+            }
+            GradientStop {
+                position: 1.0; color: "blue"
+            }
+    }
 
 
-        Image {
-            source: "resources/images/jeep-backsplash.jpg"
-            id: child
-            anchors.fill: parent
-            anchors.margins: 15
-        }
     }
 
 }
