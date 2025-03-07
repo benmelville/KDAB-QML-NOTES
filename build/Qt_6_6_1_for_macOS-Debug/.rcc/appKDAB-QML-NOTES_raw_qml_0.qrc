@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/KDAB-QML-NOTES/">
-    <file alias="Main.qml">/Users/benjaminmelville/projects/KDAB-QML-NOTES/Main.qml</file>
-  </qresource>
-</RCC>
-

@@ -1,5 +1,0 @@
-module KDAB-QML-NOTES
-typeinfo appKDAB-QML-NOTES.qmltypes
-prefer :/KDAB-QML-NOTES/
-Main 1.0 Main.qml
-
